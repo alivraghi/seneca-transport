@@ -1,6 +1,6 @@
 {
   "name": "seneca-transport",
-  "version": "8.3.1-ologw-fibra-0",
+  "version": "8.3.1-ologw-fibra-1",
   "description": "Seneca transport",
   "main": "transport.js",
   "license": "MIT",
@@ -49,7 +49,7 @@
     "Christian Gaggero (https://github.com/chirigg)"
   ],
   "dependencies": {
-    "@hapi/wreck": "git+https://bitbucket.org/SirtiWPL/wreck.git#v18.1.1-ologw-fibra-0",
+    "@hapi/wreck": "git+https://github.com/alivraghi/wreck.git#v18.1.1-ologw-fibra-0",
     "eraro": "^3.0.1",
     "lodash.foreach": "^4.5.0",
     "lodash.omit": "^4.5.0",
